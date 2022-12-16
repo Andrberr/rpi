@@ -1,0 +1,108 @@
+.person_of_day {
+    display:flex;
+    justify-content: center;
+    background:  linear-gradient(250deg, cadetblue 10%, cornflowerblue 90%) !important;
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.person_of_day_head {
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    color: white;
+}
+.person-card {
+    background: linear-gradient(255deg, steelblue 50%, slateblue 90%) !important;
+    border: none !important;
+    width: 80%;
+    flex-direction: row !important;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.person-photo {
+    width: 40% !important;
+    filter: drop-shadow(4px 4px 30px rgba(0, 0, 0, 0.25));
+}
+.person-img, .person-btn{
+    display:flex;
+    justify-content: center;
+}
+
+.person-name, .person-years {
+    text-align: center;
+    font-family: Playfair;
+    font-weight: 500;
+    color: white;
+    font-size: 30px !important;
+}
+
+.person-mainInfo {
+    font-family: Playfair;
+    font-weight: 400;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+
+.moreInfoBtn {
+    color: white !important;
+    display:flex;
+    justify-content: center;
+    border-radius: 10px !important;
+    background: rgba(29, 85, 138) !important;
+    border: none !important;
+    font-family: Playfair !important;
+    font-weight: 400 !important;
+    font-size: 25px !important;
+    padding: 10px 30px !important;
+    margin-top: 30px;
+    width: 40%;
+}
+
+.moreInfoBtn:hover {
+    background: rgba(23, 79, 130) !important;
+    color: #291A2D !important;
+}
+
+@media only screen and (max-width: 992px) {
+    .person_of_day {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .person_of_day {
+        width: 100%;
+    }
+
+    .person-card {
+        flex-direction: column !important;
+        align-items: center !important;
+
+    }
+
+    .person-info {
+        text-align: center;
+    }
+
+    .person-photo {
+        height: 60% !important;
+        width: 60% !important;
+    }
+
+}
+
+@media only screen and (max-width: 992px) {
+    .person_of_day {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .person_of_day {
+        width: 100%;
+    }
+}

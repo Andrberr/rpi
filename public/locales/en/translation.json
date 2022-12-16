@@ -1,0 +1,116 @@
+{
+  "home_page": "Home",
+  "list_of_architects": "Architects of Belarus",
+  "russian_lang": "Russian",
+  "english_lang": "English",
+  "start_phrase": "Belarusian architects",
+  "about_site_line1": "An architect is a specialist who is engaged in architectural design, that is, the development of building plans, their facades - in general and in detail, as well as interior spaces.",
+  "about_site_line2": "The architecture of the country is a kind of image of the state, it can reveal the historical heritage, speak about the tastes, preferences and standard of living of the state.",
+
+  "creators": "Developers",
+  "creator1": "Dana Kononova",
+  "creator2": "Andrey Berezkin",
+  "creator3": "Nikita Aleksandrov",
+  "github": "GitHub profile",
+
+  "person_of_day": "Person of the day",
+  "personButton": "Learn more",
+
+  "list_of_arch": "List of architects of Belarus",
+  "searchCaption": "Search for an architect",
+
+  "ListHeader": "Architects of Belarus",
+  "search": "Search...",
+
+  "architects": {
+    "langbard": {
+      "name": "Joseph",
+      "surname": "Langbard",
+      "patronymic": "Grigorievich",
+      "shortDesc": "Belarusian Soviet architect, Honored Artist of the Byelorussian SSR (1934), winner of the Grand Prix of the World Exhibition in Paris, 1937, Doctor of Architecture (since 1939).",
+      "longDesc": "He is one of the outstanding architects of Europe of the 20th century, whose artistic heritage had a significant impact on the development of modern architecture. His architectural works greatly influenced the formation of the image of the city of Minsk and are examples of Belarusian architecture.",
+      "i0": "Joseph Langbard was born on January 6 (18), 1882 in the town of Belsk, Grodno province of the Russian Empire, into a Jewish family. His father saw the future for his son in commerce, but Joseph loved to draw from childhood.",
+      "i1": "Having brilliantly graduated from the local gymnasium in 1901, he entered the architectural department of the Odessa Art College, which he graduated in 1906.",
+      "i2": "In 1907 he moved to St. Petersburg, where he successfully passed the exams at the Higher Art School at the Imperial Academy of Arts at the Faculty of Architecture. He studied for seven years in St. Petersburg. ",
+      "i3": "During the First World War, Langbard worked at the front as the head of an engineering detachment. Under his leadership, the Zemstvo Administration in Kostroma, the Agricultural Museum and the Theater of Miniatures in Petrograd were built at that time.",
+      "i4": "During the Second World War, Langbard worked on camouflaging buildings in Leningrad, after being evacuated to the rear he lived in the Yaroslavl region. In 1944 he returned to Minsk, destroyed by the Nazis, where, as part of the commission of the Committee for Architecture under the Council of People's Commissars of the USSR, he worked on plans reconstruction of Minsk and Gomel.",
+      "i5": "Together with Mikhail Baklanov, he developed the project for the building of the Pobeda cinema in Minsk, completed in 1950.",
+      "captions": {
+        "1": "Independence Square in Minsk",
+        "2": "Building of the Academy of Sciences in Minsk",
+        "3": "House of officers in Minsk"
+      },
+      "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d38627.4881521161!2d23.155104918590883!3d52.76434165531651!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x472023903269b7d3%3A0xfedf75199d10c898!2s17-100%20Bielsk%20Podlaski%2C%20Poland!5e0!3m2!1sen!2sby!4v1671107264730!5m2!1sen!2sby"
+    },
+    "bovt": {
+      "name": "Ivan",
+      "surname": "Bovt",
+      "patronymic": "Ivanovich",
+      "shortDesc": "Soviet and Belarusian architect. Honored Architect of the Byelorussian SSR (1973).",
+      "longDesc": "Laureate of the Prize of the Council of Ministers of the USSR and the Prize of the Council of Ministers of the Republic of Belarus, Academician of the Belarusian Academy of Architecture, Academician of the International Academy of Architecture, Chairman of the Board of the Union of Architects of the BSSR (1977-1980), Secretary of the Union of Architects of the USSR (1977-1982), Member of the Urban Planning Council of the Gosstroy of the USSR (1977-1981), Gosstroy of the USSR (1968-1982), Department of Architecture of the Minsk Oblast Executive Committee and Minsk City Executive Committee (multiple times), deputy of the Leninsky District Council of Workers' Deputies of Minsk (1965, 1967).",
+      "i0": "Born in Minsk on July 20, 1932 in the family of a civil servant, the eldest of three children.",
+      "i1": "In 1948 he graduated from seven classes of secondary school No. 33. In his youth he was engaged in aircraft modeling, he was going to enter the Moscow Aviation Institute as an aviation designer",
+      "i2": "Graduated in 1952 from the Minsk Architectural and Civil Engineering College, in 1961 from the Belarusian Polytechnic Institute with a degree in Industrial and Civil Engineering",
+      "i3": "In 1952-2001 he worked at the Belpromproject Institute, in 1962-2001 he was the chief architect. In January-July 1956, with a group of architects, I. I. Bovt was sent to Kazakhstan to develop master plans and priority objects of virgin state farms of the Kokchetav region",
+      "i4": "Member of the Union of Architects of the BSSR since 1962, Chairman of the Board of the Union of Architects of the BSSR in 1978-80. Since 1978 - Secretary of the Board of the USSR SA. Member of the CPSU since 1971.",
+      "captions": {
+        "1": "Watch factory in Minsk",
+        "2": "Institute of Construction and Architecture",
+        "3": "Belarusian Automobile Plant"
+      },
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d75252.67274821814!2d27.523157469202456!3d53.88472069817362!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dbcfd35b1e6ad3%3A0xb61b853ddb570d9!2sMinsk!5e0!3m2!1sen!2sby!4v1671104803661!5m2!1sen!2sby"
+    },
+    "romanov": {
+      "name": "Nicholas",
+      "surname": "Romanov",
+      "patronymic": "Venediktovich",
+      "shortDesc": "Civil Engineer, Architect",
+      "longDesc": "Civil engineer, architect",
+      "i0": "Born in 1863, descended from chief officer children. After graduating from the Astrakhan Real School, he entered the Institute of Civil Engineers in 1882. He graduated from the 1st category course in 1887.",
+      "i1": "From 1893 to 1900, M. Romanov was a Grodno provincial architect. On February 12, 1900, due to the death of Grodno provincial engineer V.F. Nebolsin, he was temporarily appointed to perform his duties.",
+      "i2": "In 1906-09, he took an active part in the construction of the Petrovsky-Nikolaevsky bridge across the Neman River in the city of Grodno. For this, N. Romanov received the highest gratitude from His Imperial Majesty.",
+      "i3": "With the outbreak of the First World War, M. V. Romanov was seconded to the 1st district of military road works, and then to the command of the head of the military road department of the Northern Front.",
+      "i4": "After evacuation into the interior of the country at the end of the war, he returned to Grodno, where he died in 1927.",
+      "captions": {
+        "1": "Church of St. Nicholas in Bialowieza",
+        "2": "People's House in Grodno",
+        "3": "Brick St. Nicholas Church in Krupchitsy"
+      },
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d77855.46992147376!2d30.88069842531352!3d52.42509784008621!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46d4699b50faf1a5%3A0x5ecca30fd2361396!2sGomel!5e0!3m2!1sen!2sby!4v1671107303909!5m2!1sen!2sby"
+    },
+    "parusnikov": {
+      "name": "Mikhail",
+      "surname": "Parusnikov",
+      "patronymic": "Pavlovich",
+      "shortDesc": "Soviet architect, full member of the USSR Academy of Architecture (1950).",
+      "longDesc": "Academician of the Academy of Sciences of the BSSR (1950; corresponding member since 1947). Teacher, professor (since 1948). Laureate of the State Prize of the Byelorussian SSR (1968).",
+      "i0": "From 1913 to 1918 he studied at MUZHVZ (his father was rector of a nearby church), then until 1924 at VKHUTEMAS. A student of S. V. Noakovsky and I. V. Zholtovsky.",
+      "i1": "From 1924 he worked in the architectural design organizations of Moscow and at the same time taught (1934-1941, since 1948 - professor) at the Moscow Architectural Institute.",
+      "i2": "In 1941-1944 - senior researcher at the Academy of Architecture of the USSR, in 1944-1948 - head of the architectural design workshops of the Committee for Architecture of the USSR.",
+      "i3": "Published a number of scientific papers on the theory and history of architecture, including: \"On the principles of complex serial design of residential buildings\" (Architecture of the USSR. 1953. No. 12) and \"On the experience of designing a series of typical mid-rise buildings\" (Architecture USSR. 1955. No. 2).",
+      "captions": {
+        "1": "KGB building in Minsk",
+        "2": "Building of the National Bank of the Republic of Belarus",
+        "3": "Bridge over the Svisloch"
+      },
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d577325.4387329643!2d36.82376442827013!3d55.58151820195861!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54afc73d4b0c9%3A0x3d44d6cc5757cf4c!2sMoscow%2C%20Russia!5e0!3m2!1sen!2sby!4v1671108276718!5m2!1sen!2sby"
+    },
+    "korol": {
+      "name": "Vladimir",
+      "surname": "Korol",
+      "patronymic": "Adamovich",
+      "shortDesc": "Soviet, Belarusian architect, teacher. People's Architect of the USSR (1970).",
+      "longDesc": "Awards: State Prize of the Byelorussian SSR (1968) - for the architecture of Leninsky Prospekt in Minsk, Order of Lenin (1958), Order of the October Revolution (1971), Order of the Red Banner of Labor (1966), Order of the Badge of Honor (1949) )",
+      "i0": "In 1931 he graduated from the Vitebsk Art College. For several years he worked as a teacher and director of one of the schools in Dzerzhinsk, Minsk region. From 1934 to 1941 he studied at the architectural faculty of the Leningrad Institute of Painting, Sculpture and Architecture",
+      "i1": "In July 1941, he joined the people's militia and, as an assistant military engineer of the division, took part in the defense of Leningrad. In November 1941, he was recalled from the front to work at the All-Russian Academy of Arts, and in 1942 he was evacuated to Central Asia together with staff and students of the academy, where he worked as director of the art school",
+      "i2": "In 1945, he arrived in Minsk, liberated and destroyed by the Nazis. He was appointed head of the architectural and planning workshop of the Belgosproekt Institute, which was engaged in the implementation of one of the main tasks of post-war urban planning: the development of a plan for planning and building the center of the capital of Belarus",
+      "i3": "Since 1947, he began working as a teacher, and then as head of the department of urban planning at the Faculty of Architecture of the Belarusian Polytechnic Institute",
+      "captions": {
+        "1": "The buildings of the post office on Independence Avenue and the Central Telegraph on October Square in Minsk",
+        "2": "Memorial \"Brest Hero Fortress\"",
+        "3": "Administrative building in Polotsk"
+      },
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d18891.81731483488!2d28.41253913074416!3d53.70976151805052!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46da1720fca28f3f%3A0x3e7aa55afeb062f8!2zxIxlcnZpZcWE!5e0!3m2!1sen!2sby!4v1671109384933!5m2!1sen!2sby"
+    }
+  }
+}
