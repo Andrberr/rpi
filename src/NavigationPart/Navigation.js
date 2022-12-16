@@ -1,8 +1,8 @@
 import {Container, Nav, Navbar} from "react-bootstrap"
 import { Outlet, Link} from "react-router-dom"
 import logo from '../images/logo.png'
-import rus from '../images/RussianFlag.svg'
-import eng from '../images/EnglishFlag.svg'
+import ru from '../images/RussianFlag.svg'
+import en from '../images/EnglishFlag.svg'
 import './Navigation.css'
 import {useTranslation} from "react-i18next";
 import '../i18n.js';
@@ -21,16 +21,16 @@ function NavigationBar() {
                     <div className="navigation_bar_links">
                         <Nav className="me-auto">
                             <Link to="/" className="nav-link">{t("home_page")}</Link>
-                            <Link to="/architects" className="nav-link">{t("list_of_arch")}</Link>
+                            <Link to="/list_of_arch" className="nav-link">{t("list_of_arch")}</Link>
                         </Nav>
                         <div className="nav-languages">
                             <Nav.Link className="lang" onClick={() => i18n.changeLanguage("ru")}>
-                                <img src={rus} alt="russian" className="flag"/>
+                                <img src={ru} alt="russian" className="flag"/>
                                 <span>{t("russian_lang")}</span>
                             </Nav.Link>
 
                             <Nav.Link className="lang" onClick={() => i18n.changeLanguage("en")}>
-                                <img src={eng} alt="english" className="flag"/>
+                                <img src={en} alt="english" className="flag"/>
                                 <span>{t("english_lang")}</span>
                             </Nav.Link>
                         </div>
